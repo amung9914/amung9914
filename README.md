@@ -35,7 +35,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/amazonAWS-232F3E?style=for-the-badge&logo=amazonAWS&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/amazonRDS-527FFF.svg?style=for-the-badge&logo=amazonRDS&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+ 
 </div>
 
 <br>
@@ -43,6 +43,9 @@
 <h3 align="center">📚 Studying 📚</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
+  <img src="https://img.shields.io/badge/redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+ 
 </div>
 
 <br>
