@@ -46,14 +46,12 @@
 <div align="center">
   <img src="https://img.shields.io/badge/apachejmeter-D22128.svg?style=for-the-badge&logo=apachejmeter&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/gitlab-ff862f.svg?style=for-the-badge&logo=gitlab&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/sourcetree-0052CC.svg?style=for-the-badge&logo=sourcetree&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <br>
- <div align="center">
   <img src="https://img.shields.io/badge/amazons3-569A31?style=for-the-badge&logo=amazons3&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/amazonRDS-527FFF.svg?style=for-the-badge&logo=amazonRDS&logoColor=white" />&nbsp
- </div>
   <img src="https://img.shields.io/badge/GithubActions-2088FF.svg?style=for-the-badge&logo=GithubActions&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
 </div>
 
 <div align="center">
@@ -62,10 +60,7 @@
 <br>
 
 <div align="center">
-  
 </div>
-
-<br>
 
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
@@ -79,3 +74,4 @@
       src="https://img.shields.io/badge/gtd8983@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+<br>
